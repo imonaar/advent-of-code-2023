@@ -1,6 +1,3 @@
-from collections import defaultdict
-
-
 with open('input.txt') as f:
     lines = f.readlines();
     lines = [line.strip() for line in lines]
